@@ -1,2 +1,2 @@
 # CustomerSegmentation
-Unsupervised Learning Project to identify customer segments of Arvato Bertelsmann customers
+Unsupervised Learning Project to identify customer segments. Proprietary data by Arvato Bertelsmann.
