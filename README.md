@@ -1,6 +1,6 @@
 # Customer Segmentation Project
 
-This repo contains the jupyter nb of the Customer Segmentation Project which is a component of the Data Science Nanodegree of Udacity.  Unsupervised methods are used to identify customer segments. The data is proprietary licensed by Arvato Bertelsmann so I am not allowed to share the data.
+This repo contains the jupyter notebook of the *Customer Segmentation Project* which is a component of the *Data Scientist Nanodegree* by Udacity. Unsupervised methods are applied to customer data of Arvato Bertelsmann in order to identify and characterize certain customer segments. The data is proprietary so I am not allowed to share it.
 
 Contents: 
 
