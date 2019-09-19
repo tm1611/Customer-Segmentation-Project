@@ -1,5 +1,6 @@
 # Customer Segmentation Project
-Unsupervised Learning Project to identify customer segments. Proprietary data by Arvato Bertelsmann.
+
+This repo contains the jupyter nb of the Customer Segmentation Project which is a component of the Data Science Nanodegree of Udacity.  Unsupervised methods are used to identify customer segments. The data is proprietary licensed by Arvato Bertelsmann so I am not allowed to share the data.
 
 Contents: 
 
